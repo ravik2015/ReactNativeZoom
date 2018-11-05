@@ -1,0 +1,16 @@
+PODS:
+  - ZoomMobileRTC (2.0.2)
+
+DEPENDENCIES:
+  - ZoomMobileRTC
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ZoomMobileRTC
+
+SPEC CHECKSUMS:
+  ZoomMobileRTC: 36dd2d6d59317fa1dd1f74b391be7a5689ddf43f
+
+PODFILE CHECKSUM: 8a60774aba6d82148ba45ac14ec0c28f37cae068
+
+COCOAPODS: 1.5.3

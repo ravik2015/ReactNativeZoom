@@ -1,0 +1,394 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		E6947E907A1BC03A34197375C710D0C6 /* Pods-react_native_zoom-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 96B9A107B0E3798A87F33DD6B1F25EAD /* Pods-react_native_zoom-dummy.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0365C9731738D6669D9DDC9765DC4286 /* Pods-react_native_zoom-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-react_native_zoom-acknowledgements.markdown"; sourceTree = "<group>"; };
+		13BA487F817E84791881FABE66EBF05D /* Pods-react_native_zoom-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-react_native_zoom-acknowledgements.plist"; sourceTree = "<group>"; };
+		15DC3FE2F676CA0963DE93662091CA64 /* MobileRTCMeetingService+AppShare.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MobileRTCMeetingService+AppShare.h"; path = "lib/MobileRTC.framework/Headers/MobileRTCMeetingService+AppShare.h"; sourceTree = "<group>"; };
+		2E08545960D2FD3056391E5DDB57C41A /* MobileRTC.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileRTC.framework; path = lib/MobileRTC.framework; sourceTree = "<group>"; };
+		458A70FAA98258AA09BE8915F12EC118 /* MobileRTCResources.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = MobileRTCResources.bundle; path = lib/MobileRTCResources.bundle; sourceTree = "<group>"; };
+		4932823D0744B9CF401FB5648F486DE3 /* Pods-react_native_zoom.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-react_native_zoom.release.xcconfig"; sourceTree = "<group>"; };
+		4A28EF1BE592BEBCDF721EA88B332957 /* MobileRTCMeetingService+InMeeting.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MobileRTCMeetingService+InMeeting.h"; path = "lib/MobileRTC.framework/Headers/MobileRTCMeetingService+InMeeting.h"; sourceTree = "<group>"; };
+		4B47264E8CA3E2DCAD3AA52A096F0029 /* MobileRTCInviteHelper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MobileRTCInviteHelper.h; path = lib/MobileRTC.framework/Headers/MobileRTCInviteHelper.h; sourceTree = "<group>"; };
+		5AF0475BF9784230F4E14687DFA4207B /* MobileRTCMeetingService+Customize.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MobileRTCMeetingService+Customize.h"; path = "lib/MobileRTC.framework/Headers/MobileRTCMeetingService+Customize.h"; sourceTree = "<group>"; };
+		5E1F89B13B68FAE338EAE44226407163 /* MobileRTC.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MobileRTC.h; path = lib/MobileRTC.framework/Headers/MobileRTC.h; sourceTree = "<group>"; };
+		5F482AC2507E18EA1847D74DDE8BC8E9 /* MobileRTCMeetingUserInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MobileRTCMeetingUserInfo.h; path = lib/MobileRTC.framework/Headers/MobileRTCMeetingUserInfo.h; sourceTree = "<group>"; };
+		81B2C744757DC79F8F067E74B5CAE80C /* MobileRTCMeetingChat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MobileRTCMeetingChat.h; path = lib/MobileRTC.framework/Headers/MobileRTCMeetingChat.h; sourceTree = "<group>"; };
+		8430D732CFDC67CADF88F636A55AEB03 /* MobileRTCRoomDevice.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MobileRTCRoomDevice.h; path = lib/MobileRTC.framework/Headers/MobileRTCRoomDevice.h; sourceTree = "<group>"; };
+		880BE1E014CB04A91BC93B58264BDFDD /* MobileRTCAuthService.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MobileRTCAuthService.h; path = lib/MobileRTC.framework/Headers/MobileRTCAuthService.h; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		96B9A107B0E3798A87F33DD6B1F25EAD /* Pods-react_native_zoom-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-react_native_zoom-dummy.m"; sourceTree = "<group>"; };
+		AFE39AE1D2E2CD5747546B8ECCD161DF /* MobileRTCPremeetingService.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MobileRTCPremeetingService.h; path = lib/MobileRTC.framework/Headers/MobileRTCPremeetingService.h; sourceTree = "<group>"; };
+		B8DF99D2012103451C67C167A18C37AE /* libPods-react_native_zoom.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-react_native_zoom.a"; path = "libPods-react_native_zoom.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C4ED8C62871878DDF112D594A62F70F1 /* MobileRTCMeetingService.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MobileRTCMeetingService.h; path = lib/MobileRTC.framework/Headers/MobileRTCMeetingService.h; sourceTree = "<group>"; };
+		CA5F9B2C76AC4EF29D8EB2D05ACBCC81 /* Pods-react_native_zoom-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-react_native_zoom-resources.sh"; sourceTree = "<group>"; };
+		D0629D1F08C3021C565B1837D2DB5699 /* MobileRTCE2EMeetingKey.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MobileRTCE2EMeetingKey.h; path = lib/MobileRTC.framework/Headers/MobileRTCE2EMeetingKey.h; sourceTree = "<group>"; };
+		DCFBF01FE8ABC063EFD260B9D8ED8C41 /* MobileRTCConstants.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MobileRTCConstants.h; path = lib/MobileRTC.framework/Headers/MobileRTCConstants.h; sourceTree = "<group>"; };
+		ED3CF05CBCED41CD0C0E4F56C92A85B6 /* Pods-react_native_zoom-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-react_native_zoom-frameworks.sh"; sourceTree = "<group>"; };
+		F94DAA1278FFAFF233BDF1EC66D75E46 /* MobileRTCMeetingSettings.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MobileRTCMeetingSettings.h; path = lib/MobileRTC.framework/Headers/MobileRTCMeetingSettings.h; sourceTree = "<group>"; };
+		FFF55C63E6EAA98834B4EBFC1656D27C /* Pods-react_native_zoom.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-react_native_zoom.debug.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		687B90EFD604B2434357AF6647DCF29D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0F8D2E47FE03D3B91B51069F7C273AF4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		156C32C33502A77D9DA2BEB3D77FCCF6 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				2AA7F437C5078D751E8C18C689B48262 /* Pods-react_native_zoom */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		2AA7F437C5078D751E8C18C689B48262 /* Pods-react_native_zoom */ = {
+			isa = PBXGroup;
+			children = (
+				0365C9731738D6669D9DDC9765DC4286 /* Pods-react_native_zoom-acknowledgements.markdown */,
+				13BA487F817E84791881FABE66EBF05D /* Pods-react_native_zoom-acknowledgements.plist */,
+				96B9A107B0E3798A87F33DD6B1F25EAD /* Pods-react_native_zoom-dummy.m */,
+				ED3CF05CBCED41CD0C0E4F56C92A85B6 /* Pods-react_native_zoom-frameworks.sh */,
+				CA5F9B2C76AC4EF29D8EB2D05ACBCC81 /* Pods-react_native_zoom-resources.sh */,
+				FFF55C63E6EAA98834B4EBFC1656D27C /* Pods-react_native_zoom.debug.xcconfig */,
+				4932823D0744B9CF401FB5648F486DE3 /* Pods-react_native_zoom.release.xcconfig */,
+			);
+			name = "Pods-react_native_zoom";
+			path = "Target Support Files/Pods-react_native_zoom";
+			sourceTree = "<group>";
+		};
+		44377F167665D7ECAF80ED6855994F8C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2E08545960D2FD3056391E5DDB57C41A /* MobileRTC.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		49153A983213B268F969393D6599CC4B /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				9B8EE64071104E3B41C1E7A29B810ADD /* ZoomMobileRTC */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		672AC0285A30E69299F6BAC101BC3CC5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B8DF99D2012103451C67C167A18C37AE /* libPods-react_native_zoom.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6E6058BF2AEE96BBAA1FD397753646EF /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				458A70FAA98258AA09BE8915F12EC118 /* MobileRTCResources.bundle */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				0F8D2E47FE03D3B91B51069F7C273AF4 /* Frameworks */,
+				49153A983213B268F969393D6599CC4B /* Pods */,
+				672AC0285A30E69299F6BAC101BC3CC5 /* Products */,
+				156C32C33502A77D9DA2BEB3D77FCCF6 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		9B8EE64071104E3B41C1E7A29B810ADD /* ZoomMobileRTC */ = {
+			isa = PBXGroup;
+			children = (
+				5E1F89B13B68FAE338EAE44226407163 /* MobileRTC.h */,
+				880BE1E014CB04A91BC93B58264BDFDD /* MobileRTCAuthService.h */,
+				DCFBF01FE8ABC063EFD260B9D8ED8C41 /* MobileRTCConstants.h */,
+				D0629D1F08C3021C565B1837D2DB5699 /* MobileRTCE2EMeetingKey.h */,
+				4B47264E8CA3E2DCAD3AA52A096F0029 /* MobileRTCInviteHelper.h */,
+				81B2C744757DC79F8F067E74B5CAE80C /* MobileRTCMeetingChat.h */,
+				C4ED8C62871878DDF112D594A62F70F1 /* MobileRTCMeetingService.h */,
+				15DC3FE2F676CA0963DE93662091CA64 /* MobileRTCMeetingService+AppShare.h */,
+				5AF0475BF9784230F4E14687DFA4207B /* MobileRTCMeetingService+Customize.h */,
+				4A28EF1BE592BEBCDF721EA88B332957 /* MobileRTCMeetingService+InMeeting.h */,
+				F94DAA1278FFAFF233BDF1EC66D75E46 /* MobileRTCMeetingSettings.h */,
+				5F482AC2507E18EA1847D74DDE8BC8E9 /* MobileRTCMeetingUserInfo.h */,
+				AFE39AE1D2E2CD5747546B8ECCD161DF /* MobileRTCPremeetingService.h */,
+				8430D732CFDC67CADF88F636A55AEB03 /* MobileRTCRoomDevice.h */,
+				44377F167665D7ECAF80ED6855994F8C /* Frameworks */,
+				6E6058BF2AEE96BBAA1FD397753646EF /* Resources */,
+			);
+			name = ZoomMobileRTC;
+			path = ZoomMobileRTC;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9995CF107B773C2ED4A7798384F311DA /* Pods-react_native_zoom */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 184CF133BEA4489935647EAB246A471C /* Build configuration list for PBXNativeTarget "Pods-react_native_zoom" */;
+			buildPhases = (
+				10C8E80EC4984E293958AFAE46711567 /* Sources */,
+				687B90EFD604B2434357AF6647DCF29D /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-react_native_zoom";
+			productName = "Pods-react_native_zoom";
+			productReference = B8DF99D2012103451C67C167A18C37AE /* libPods-react_native_zoom.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0930;
+				LastUpgradeCheck = 0930;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = 672AC0285A30E69299F6BAC101BC3CC5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9995CF107B773C2ED4A7798384F311DA /* Pods-react_native_zoom */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		10C8E80EC4984E293958AFAE46711567 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E6947E907A1BC03A34197375C710D0C6 /* Pods-react_native_zoom-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		199D972A13F2B4C56847F7A89CCA83BC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		3C29BA9DB7A09D178D03AD46C8E7ACDD /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4932823D0744B9CF401FB5648F486DE3 /* Pods-react_native_zoom.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9367B94C4C44FCE30E1EF9CE2752394D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FFF55C63E6EAA98834B4EBFC1656D27C /* Pods-react_native_zoom.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		FDB2FC4A1E5891381CD9D922145497F1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		184CF133BEA4489935647EAB246A471C /* Build configuration list for PBXNativeTarget "Pods-react_native_zoom" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9367B94C4C44FCE30E1EF9CE2752394D /* Debug */,
+				3C29BA9DB7A09D178D03AD46C8E7ACDD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				199D972A13F2B4C56847F7A89CCA83BC /* Debug */,
+				FDB2FC4A1E5891381CD9D922145497F1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}

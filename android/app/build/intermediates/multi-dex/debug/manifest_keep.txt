@@ -1,0 +1,3 @@
+# Referenced at /Users/rishabh.saxena/Desktop/react_native_zoom/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:45
+-keep class com.react_native_zoom.MainApplication { <init>(...); }
+
