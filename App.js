@@ -19,7 +19,7 @@ export default class App extends Component{
 
   componentDidMount(){
     // please initialised this before starting any meeting
-    RNMobileRTC.initialize('743INReT2TVjDkDE07z3RumHA2tiGR8SZlEV', '1vqi3LemtXMqXONRwBPBQT8850H8qRweVFoL', 'zoom.us')
+    RNMobileRTC.initialize(<sdk_key>, <sdk_secret>, 'zoom.us')
     .then((result) => {console.log(result, "zoom sdk initialized")})
      .catch((error) => { throw new Error(error.message), console.log(error, "initialized error") });
   }
